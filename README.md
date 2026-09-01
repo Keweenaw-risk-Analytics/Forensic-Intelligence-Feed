@@ -943,3 +943,9 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **QTTB** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/9757f138b04e7a4954c4aaf9f9ddb22f) |
 | **SPH** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/15744f2198951a98b5de70aa25003759) |
 | **VYND** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/705fef1808bfee69a2b4957475235a8f) |
+| **FOXO** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/2728e7596308b987dedf7967d691743b) |
+| **LNAI** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/97cdde6157b6ab3ea87c8be57d90af66) |
+| **TLRY** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d27ef3c39687059f513572b7514a505c) |
+| **UP** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/6d2664c9688ee78b42c36c07974b1e5f) |
+| **URG** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/53f30bca699b10fe4a9724f109d40c79) |
+| **VIIQ** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/73af1973cdeefb949fd3885769d726a5) |
