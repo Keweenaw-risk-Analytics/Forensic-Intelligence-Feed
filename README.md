@@ -1068,3 +1068,7 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **LBGJ** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/b7b5bf4b98be13a4b1fd9bc84509306e) |
 | **ORMP** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/99ecda36e419d4febb2d1d416bcc50c4) |
 | **XFOR** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/8dc584ba87e654ee8d4ef2d7c996981c) |
+| **ACRG** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/9b03fab9e1328c6d8158f2b0f172bb38) |
+| **AWHL** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/6988ff38d7847946b440dfcf087a5712) |
+| **REX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/fd2432253093266fbb7bf6457c070292) |
+| **TBBB** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/49d670274489188124d4a891c75d5193) |
