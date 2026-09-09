@@ -1083,3 +1083,4 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **INM** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/b5e224b09d2eca2c9cd3fe2ef310b7dd) |
 | **LCUT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/81bd4af6c67ba8cf53f5f35791fff528) |
 | **TREX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/5272a2609f3dcd006fb3dc96009e6735) |
+| **ITP** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/c4ff214da8f1b2c9feb58685815ef0a3) |
