@@ -1095,3 +1095,6 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **DOGZ** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/b80eb55f1a00108d665b8d25511ea147) |
 | **NTCL** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ea6671fc03add17820096d01a95088a2) |
 | **RVMD** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/00e92c5970534f08d56af3b955bc3919) |
+| **PVCT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/efe4f8cd5d53018546d84eb0aa09126c) |
+| **SOBR** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/2867aa992a83ba4e2672da3e70a99a3f) |
+| **TARA** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/55d7918335e00dccff103a2db3d94d69) |
