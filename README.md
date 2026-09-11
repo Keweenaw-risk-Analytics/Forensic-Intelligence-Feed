@@ -1098,3 +1098,17 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **PVCT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/efe4f8cd5d53018546d84eb0aa09126c) |
 | **SOBR** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/2867aa992a83ba4e2672da3e70a99a3f) |
 | **TARA** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/55d7918335e00dccff103a2db3d94d69) |
+| **DIN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/4589e33f6f288b93297856c23a645f3c) |
+| **HGV** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/f63084fadf605c579bb557bb717401cf) |
+| **NEO** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/aad71a9f866b35c2908ec0afaa67435e) |
+| **PRPO** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/4f9d184746148fc4580385f054055ae8) |
+| **SAT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/9607a22070bf078d5e4ee716469a38ac) |
+| **SOWG** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/55016a3da7216516d45f8d2d55d738f4) |
+| **ALPS** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/0964777a9e119e7fb8ebe462bcfc6169) |
+| **AMR** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/18a39a78b0fe3103e32ae351ae9565da) |
+| **BRGX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d74509ea918c468cac0fc5de00add76a) |
+| **BZH** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d7f3ccbf39468226a19d0bd2be045f23) |
+| **HL** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d10831ce0bae74ab4774d9713b02ace5) |
+| **NFGC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/bbf8bbb5aeda80cb8d640e12779ab5d9) |
+| **POLA** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/f81db81ef8acb3c1efc5d99c103854a8) |
+| **PSN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/4d6cf7858c1628c91309e7bfda93cb33) |
