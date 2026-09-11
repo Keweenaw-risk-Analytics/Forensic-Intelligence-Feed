@@ -1112,3 +1112,5 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **NFGC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/bbf8bbb5aeda80cb8d640e12779ab5d9) |
 | **POLA** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/f81db81ef8acb3c1efc5d99c103854a8) |
 | **PSN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/4d6cf7858c1628c91309e7bfda93cb33) |
+| **HCXY** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/734664ba7193efa60e1c99de59ec40bf) |
+| **HGYN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/5fc0ca7a817a7b827c55ff3043db3ad7) |
