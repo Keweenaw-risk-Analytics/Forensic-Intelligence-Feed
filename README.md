@@ -1177,3 +1177,11 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **ELDN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/302feeb6b7fe55daee1754dc57abd539) |
 | **GSBD** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/e4dddd947a1539b5e93ca841f96b9e88) |
 | **OMEX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/5ed48c7818c8cb6afb84fdcde0851a8c) |
+| **FN** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ed53d7562f520403cc33d1ab97d6e8fe) |
+| **MRMD** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/934ce0106cc64b5d10956051a7693002) |
+| **NRIS** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/5236e4f7dae1e20d5727ff41c9bc8e43) |
+| **RBTK** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/fcad6b52f2e4f92b1a382b8d897c5db4) |
+| **SBDS** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ce77c225cdf3a955291a4c8f907c5c5f) |
+| **SFM** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/fe10e468a225ea93175dae6c5acafdc9) |
+| **SNWV** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/b79202184791cdeac9e8791407bdcf87) |
+| **TMQ** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/849722685a745172088a20c27746da46) |
