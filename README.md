@@ -1250,3 +1250,10 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **MAGE** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/f4d36f95b4b9a6195580be3c7209d4e2) |
 | **MIBE** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/fcceb088d7b3c47e74672d979ff39c5c) |
 | **SOJC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d9a39e6574dab859108d9b90be57ee50) |
+| **FTS** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/41b2b20bc13cfe5a9ea78b2e7c771bce) |
+| **GT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/2a2e809fbaa60132436c707f492adff4) |
+| **JANX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/04e4ee6fa15e329e0b371db51c34b6ed) |
+| **LLPS** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/92b411c3c688fc49529b8fad18c99caf) |
+| **OXY** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/493b6d1c6a203c30cfd383e55da60ad7) |
+| **PTIX** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/394c7b3f0e43130f72c20c5ac4168748) |
+| **SOC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/acbdef0ce0b010c08c895b9d263afbae) |
