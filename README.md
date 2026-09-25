@@ -1301,3 +1301,17 @@ Automated SEC EDGAR forensic audits, dilutive debt analysis, and structural solv
 | **MLEC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/9633bc7a6fff53bef8361269971b85e3) |
 | **NOG** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/8f13652d894b7262fc552907eb54ba80) |
 | **STEM** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/9f798cc8b974f7630a83b17fd3476286) |
+| **ABVC** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ae3a889c33c2351cf65525d0e4bedcc8) |
+| **CPSH** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/1570e7b1b022f2e89eb6edbddb34b086) |
+| **MRCL** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/68503215d683f4c5a5c1599d3a905f73) |
+| **OTLY** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ea0140887412cbd1583ddfb41e082d55) |
+| **SDST** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/ba13a5ad3f5cf2755bdfd3b445a4637e) |
+| **SPST** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/46b81d4403fa1c078d733c46225211be) |
+| **CLOQ** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/18536a6ce3f37a5e2cb25008b5131e22) |
+| **GEG** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/e530116ff366dbcdc0bbe9ad0ab28ff1) |
+| **JANL** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/033f0728fc8de31fa43e19849be74fd5) |
+| **NICM** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/53ed7d13fa108ae1c1ff2317f8fe28ea) |
+| **NXAT** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/d7f14968aee633b99906522d71c01aea) |
+| **PTCO** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/f5a5ef4b99f3adc474e48f514e1e7f9b) |
+| **SMSI** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/992f01cdc169f42646ac73fbc8396062) |
+| **YFOR** | [View Gist Dossier](https://gist.github.com/Keweenaw-risk-Analytics/0dd6e45204c2017c3e7227c7a46b2c83) |
